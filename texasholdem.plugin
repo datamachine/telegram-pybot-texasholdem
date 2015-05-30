@@ -1,0 +1,10 @@
+
+[Core]
+Name = TexasHoldEm
+Module = texasholdem
+
+[Documentation]
+Author = Vincent Castellano
+Website = https://github.com/datamachine/telegram-pybot-texasholdem
+Description = Run Texas HoldEm Poker Tables!
+

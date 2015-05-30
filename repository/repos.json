@@ -1,0 +1,9 @@
+
+{
+    "name": "TexasHoldEm",
+    "description": "Run Texas HoldEm Poker Tables!",
+    "version": "1.0",
+    "default_enable": ["TexasHoldEm"],
+    "homepage": "https://github.com/datamachine/telegram-pybot-texasholdem",
+    "repo": "https://github.com/datamachine/telegram-pybot-texasholdem.git"
+}
