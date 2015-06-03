@@ -1,7 +1,6 @@
+from telex.plugin import TelexPlugin
 
-import plugintypes
-
-class TexasHoldEmPlugin(plugintypes.TelegramPlugin):
+class TexasHoldEmPlugin(TelexPlugin):
     patterns = {
         "^!command": "callback",
     }
