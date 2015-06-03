@@ -5,6 +5,6 @@ Module = texasholdem
 
 [Documentation]
 Author = Vincent Castellano
-Website = https://github.com/datamachine/telegram-pybot-texasholdem
+Website = https://github.com/datamachine/telex-texasholdem
 Description = Run Texas HoldEm Poker Tables!
 
